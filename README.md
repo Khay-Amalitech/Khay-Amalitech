@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khay
+- 👋 Hi, I’m @Ebenezer
 - 👀 I’m interested in Java and Golang
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on any Project
